@@ -5,7 +5,10 @@
 
 body{
     background-color: rgb(149, 102, 192);
-
+ 
+}
+img.lado{
+    float: right;
 }
 
 main{
